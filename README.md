@@ -29,14 +29,10 @@
 
 <img align="left" alt="Sakar's GitHub Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakar97&layout=compact&langs_count=8&theme=merko" />
 
----
-
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
-
----
 
 If you like what I do, maybe consider buying me a coffee/tea/Pizza 🥺👉👈
 
