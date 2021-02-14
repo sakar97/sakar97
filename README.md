@@ -26,13 +26,13 @@
 
 <br />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+### GITHUB STATS
 
   <img align="left" alt="Sakar's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sakar97&show_icons=true&include_all_commits=true&theme=merko&hide_border=true" />
 
+### LANGUAGES USED
 
-</details>
+<img align="left" alt="Sakar's GitHub Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakar97&layout=compact" />
 
 [twitter]: https://twitter.com/sakarmehra
 [instagram]: https://instagram.com/_m_sakar_
