@@ -14,9 +14,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Sakar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sakar-mehra-73066a7b/)][linkedin]
+[![Twitter Badge](https://img.shields.io/badge/-@__jesslim-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sakarmehra)][twitter]
+[![Instagram Badge](https://img.shields.io/badge/-@jlim__slam-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_m_sakar_/)][instagram]
+[![Gmail Badge](https://img.shields.io/badge/-jessicalim813-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sakarmehra@gmail.com)](mailto:sakarmehra100@gmail.com)
 
 <br />
 
@@ -26,14 +27,21 @@
 
 <br />
 
-### GITHUB STATS
+### Github Stats
 
   <img align="left" alt="Sakar's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sakar97&show_icons=true&include_all_commits=true&theme=merko&hide_border=true" />
 
-### LANGUAGES USED
+<br />
 
-<img align="left" alt="Sakar's GitHub Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakar97&layout=compact" />
+### Languages
+
+<img align="left" alt="Sakar's GitHub Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakar97&layout=compact&langs_count=8&theme=merko" />
 
 [twitter]: https://twitter.com/sakarmehra
 [instagram]: https://instagram.com/_m_sakar_
 [linkedin]: https://linkedin.com/in/sakar-mehra-73066a7b/
+
+![GitHub last commit](https://img.shields.io/github/last-commit/sakar97/sakar97)
+![pv](https://pageview.vercel.app/?github_user=sakar97)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-680-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
