@@ -29,19 +29,19 @@
 
 ### Github Stats
 
-  <img align="left" alt="Sakar's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sakar97&show_icons=true&include_all_commits=true&theme=merko&hide_border=true" />
+  <img align="left" alt="Sakar's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sakar97&show_icons=true&include_all_commits=true&theme=merko" />
 
+<br />
 <br />
 
 ### Languages
 
 <img align="left" alt="Sakar's GitHub Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakar97&layout=compact&langs_count=8&theme=merko" />
-
+<br />
+<br />
 [twitter]: https://twitter.com/sakarmehra
 [instagram]: https://instagram.com/_m_sakar_
 [linkedin]: https://linkedin.com/in/sakar-mehra-73066a7b/
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/sakar97/sakar97)
 ![pv](https://pageview.vercel.app/?github_user=sakar97)
-![Profile Views](http://img.shields.io/badge/Profile%20Views-680-blue)
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
