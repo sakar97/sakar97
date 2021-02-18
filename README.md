@@ -2,10 +2,10 @@
 
 ## I'm a Developer, Contributor and a Learner !!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m a DevOps Engineer currently working in GS Lab.
 - 👯 I’m looking for more learning experience in Technical Field.
 - 🔭 Taking part in GSSOC, 2021.
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to watch tv-shows and learn Spanish.
 
 ### Spotify Playing 🎧
