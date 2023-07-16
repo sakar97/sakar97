@@ -2,15 +2,11 @@
 
 ## I'm a Developer, Contributor and a Learner !!
 
-- 🌱 I’m a DevOps Engineer currently working in GS Lab.
+- 🌱 I’m a DevOps Engineer currently working in HCL Software.
 - 👯 I’m looking for more learning experience in Technical Field.
 - 🔭 Taking part in GSSOC, 2021.
-- 🥅 2021 Goals: Contribute more to Open Source projects.
+- 🥅 2023 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to watch tv-shows and learn Spanish.
-
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Sakar Spotify Playing" width="350" />](https://open.spotify.com/album/6wdSf72duVewXTqhYU3Z87?highlight=spotify:track:77Ft1RJngppZlq59B6uP0z)
 
 ### Connect with me:
 
