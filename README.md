@@ -1,44 +1,21 @@
-### Hi there, I'm Sakar  👋
-
-## I'm a Developer, Contributor and a Learner !!
-
-- 🌱 I’m a DevOps Engineer currently working in HCL Software.
-- 👯 I’m looking for more learning experience in Technical Field.
-- 🔭 Taking part in GSSOC, 2021.
-- 🥅 2023 Goals: Contribute more to Open Source projects.
-- ⚡ Fun fact: I love to watch tv-shows and learn Spanish.
-
-### Connect with me:
-
-[![Linkedin Badge](https://img.shields.io/badge/-sakarmehra-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sakar-mehra-73066a7b/)][linkedin]
-[![Twitter Badge](https://img.shields.io/badge/-@sakarmehra-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sakarmehra)][twitter]
-[![Instagram Badge](https://img.shields.io/badge/-@_m_sakar_-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_m_sakar_/)][instagram]
-[![Gmail Badge](https://img.shields.io/badge/-sakarmehra100-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sakarmehra@gmail.com)](mailto:sakarmehra100@gmail.com)
-
-### Portfolio
-
-> *pending...*
-
-### Github Stats
-
-  <img align="left" alt="Sakar's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sakar97&show_icons=true&include_all_commits=true&theme=merko" />
-
-<img align="left" alt="Sakar's GitHub Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakar97&layout=compact&langs_count=8&theme=merko" />
-
-### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-If you like what I do, maybe consider buying me a coffee/tea/Pizza 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/sakarmehra100" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+# 💫 Hi, I am Sakar
+🌱 I'm on an exciting journey as a DevOps Engineer at HCL Software, IN.<br>👯 I'm on the lookout for thrilling learning experiences in the vast tech world.<br>🔭 Proud participant of GSSOC 2021, where I honed my skills.<br>🥅 My 2024 aspiration? Contribute extensively to Open Source projects.<br>⚡ Fun fact: I'm a TV-show enthusiast and a passionate Spanish learner.
 
 
-![GitHub last commit](https://img.shields.io/github/last-commit/sakar97/sakar97)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=sakar97.sakar97)
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_m_sakar_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakar-mehra-73066a7b/) 
 
+# 💻 Tech Stack:
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![ANSIBLE](https://img.shields.io/badge/ansible-%231A1918.svg?style=plastic&logo=ansible&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sakar97&theme=merko&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sakar97&theme=merko&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sakar97&theme=merko&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-[twitter]: https://twitter.com/sakarmehra
-[instagram]: https://instagram.com/_m_sakar_
-[linkedin]: https://linkedin.com/in/sakar-mehra-73066a7b/
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sakar97&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=sakar97&icon=5&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
